@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@types/bun": "^1.0.0",
+    "@types/node": "^20.10.5",
+    "@ts-webstack/router": "^0.0.1"
+  },
+  "name": "@ts-webstack/router-bun",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanHolger/ts-webstack-router-bun.git"
+  },
+  "author": "Jan Bebendorf",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JanHolger/ts-webstack-router-bun/issues"
+  },
+  "homepage": "https://github.com/JanHolger/ts-webstack-router-bun#readme",
+  "description": ""
+}
